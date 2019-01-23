@@ -1,4 +1,3 @@
-\include "../microtones/module.ily"
 %%DRAWS A TRADITIONAL PIANO CLUSTER --HIDES INTERIOR NOTES AND ACCIDENTALS
 #(define (draw-cluster grob)
     (let* (
