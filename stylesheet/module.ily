@@ -44,6 +44,8 @@ sciarrino_flute_trill_off = {
 
 \layout  {
     \context {\Score
+      \override Accidental #'glyph-name-alist = \eighthToneGlyphs
+      \override AccidentalCautionary #'glyph-name-alist = \eighthToneGlyphs
         %default beam and stem look
         \override Beam.breakable = ##t
         \override Beam.length-fraction = 1.7

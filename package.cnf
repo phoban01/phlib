@@ -11,14 +11,14 @@ description: <
 modules: [
   fingerings
   symbols
-  stylesheets
+  stylesheet
   extensions
   ]
 oll-core: 0.5.0
 maintainers: [
   Piaras Hoban <piaras.hoban@gmail.com>
   ]
-version: 1.0.0-alpha.0
+version: 0.9.0
 license: GPL3
-website: 
-repository: 
+website: https://github.com/phoban01/phlib
+repository: https://github.com/phoban01/phlib.git
