@@ -2,8 +2,8 @@
 # openLilyLib/ph-lib configuration
 #
 
-name: ph-lib
-display-name: ph-lib
+name: phlib
+display-name: phlib
 short-description: Piaras Hoban lilypond tools
 description: <
   Tools and functions for making my scores
